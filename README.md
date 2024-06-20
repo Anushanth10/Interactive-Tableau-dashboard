@@ -1,1 +1,1 @@
-## Contains Tableau Dashboard of British aAirways Ratings.
+## Contains Tableau Dashboard of British Airways Ratings.
